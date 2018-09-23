@@ -9,15 +9,15 @@ Select the latest version from:
     
 **NB:** For Windows ensure you tick set python path during installation.
 
-## Clone API test GIT repository:
+## Clone API Test GIT Repository:
     git clone https://github.com/jacqueswest/api_tests.git
     
-## Install required python packages:
+## Install Required Python Packages:
 From the root of the repository run:
  
     pip install -r requirements.txt
     
-## Executing tests:
+## Executing Tests:
 From the root of the repository, run:
 
     pytest
@@ -28,8 +28,9 @@ From the root of the repository, run:
     tests/test_get_dog_breeds.py::test_get_retriever_sub_breeds PASSED                                                   [ 75%]
     tests/test_get_dog_breeds.py::test_get_random_image_golden_retriever PASSED                                          [100%]
 
-## Viewing test report:            
-  After the test is run, copy the full path of api_report.html and view it in the browser.
+## Viewing Test Report:            
+  A report api_report.html will be created in the root of the repository after test execution.
+  Copy the full path and paste it in the browser or an HTML viewer to see the report
   
   Example of API HTML test report:
   
