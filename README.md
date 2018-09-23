@@ -30,7 +30,8 @@ From the root of the repository, run:
 
 ## Viewing Test Report:            
   A report api_report.html will be created in the root of the repository after test execution.
-  Copy the full path and paste it in the browser or an HTML viewer to see the report
+  
+  Copy the full path of the report and open it in a browser or an HTML viewer to view the report.
   
   Example of API HTML test report:
   
