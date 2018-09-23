@@ -1,0 +1,4 @@
+dog_apis:
+  all_breeds: https://dog.ceo/api/breeds/list/all
+  sub_breed: https://dog.ceo/api/breed/{breed}/list
+  sub_breed_random_image: https://dog.ceo/api/breed/{breed}/{sub_breed}/images/random

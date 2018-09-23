@@ -1,0 +1,4 @@
+pytest==3.8.1
+requests==2.19.1
+pytest-html==1.19.0
+pyyaml==3.13
