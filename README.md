@@ -29,9 +29,9 @@ From the root of the repository, run:
     tests/test_get_dog_breeds.py::test_get_random_image_golden_retriever PASSED                                          [100%]
 
 ## Viewing Test Report:            
-  A report api_report.html will be created in the root of the repository after test execution.
+  A report called **_api_report.html_** will be created in the root of the repository after test execution.
   
-  Copy the full path of the report and open it in a browser or an HTML viewer to view the report.
+  Copy the full path of the report and open it in a browser or in a HTML viewer to view the report.
   
   Example of API HTML test report:
   
