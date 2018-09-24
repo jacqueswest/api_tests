@@ -40,8 +40,6 @@ From the root of the repository run:
 ## Executing Tests:
 From the root of the repository, run:
 
-**_Ignore the importing ABC from collections DeprecationWarning_**
-
     pytest
 
 ## Output Example:
