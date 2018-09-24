@@ -13,7 +13,7 @@ def data_setup():
 
 
 def test_get_all_breeds(data_setup):
-    """ Return a list all dog breeds """
+    """ Return a list of all dog breeds """
 
     results = get_request(url=data.get("all_breeds"))
     pprint(results)
@@ -28,7 +28,7 @@ def test_verify_retriever_breed(data_setup):
 
 
 def test_get_retriever_sub_breeds(data_setup):
-    """ Return a list all retriever sub-breeds """
+    """ Return a list of all retriever sub-breeds """
 
     breed_url = data.get("sub_breed")
     results = get_request(url=breed_url.format(breed="retriever"))
