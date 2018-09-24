@@ -33,6 +33,8 @@ From the root of the repository, run:
   
   Copy the full path of the report and open it in a browser or in a HTML viewer to view the report.
   
+  **NB:** Click on _show details_ to see the API response
+  
   Example of API HTML test report:
   
     Passed	tests/test_get_dog_breeds.py::test_get_all_breeds	0.91	
