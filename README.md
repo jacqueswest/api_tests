@@ -10,9 +10,20 @@ For Windows select _Windows x86 executable installer_
 
 For MAC OS, click on the _download button_
     
-**NB:** For Windows ensure you tick set python path during installation.
+**NB:** For Windows ensure you tick **_Add Python 3.7 to PATH_** during installation
 
-## Clone API Test GIT Repository:
+
+## Install GIT(If not installed)
+For Windows:
+    
+    https://git-scm.com/download/win
+    
+For MAC OS following the guide under _Installing for MAC_:
+    
+    https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+    
+
+## Clone API Test GIT Repository:    
     git clone https://github.com/jacqueswest/api_tests.git
     
 ## Install Required Python Packages:
